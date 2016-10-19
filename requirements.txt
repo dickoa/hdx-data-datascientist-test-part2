@@ -1,0 +1,4 @@
+requests
+yajl
+termcolor
+unicodecsv
